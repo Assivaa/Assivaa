@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m a student from IPB University majoring software engineering technology
-- 🌱 I’m currently learning React and Node JS
+- 🌱 Currently learning React and Node JS
 - 🔭 I'm currently taking the bootcamp at LearningX-SpartaCodingClub
 - 📫 How to reach me? you can reach me at linkedIn https://www.linkedin.com/in/assivasyahrani
 - ⚡ Fun fact: I love learn new thing especially in technology
